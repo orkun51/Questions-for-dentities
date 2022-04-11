@@ -1,0 +1,2 @@
+# Questions-for-dentities
+This app was designed through MIT App Inventor. There are 4 stages in the application. It consists of sections with easy, medium, difficult and special questions. The teacher can use this application while solving questions after explaining the identity issue. Students can choose easy, medium, hard level questions. If there is a special student in the class, he can access the question by pressing the orange button.
